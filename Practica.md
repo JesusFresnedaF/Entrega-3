@@ -30,7 +30,7 @@ Las etiquetas nos facilitan movernos entre los distintos commits ya que si asign
 
 Por ejemplo: 
 
-![]()
+![](checkoutv1.png)
 
 ## Ver cambios de los commits
 
@@ -43,6 +43,8 @@ git show
 Y el resultado en mi caso será el siguiente:
 
 ![](show.png)
+
+También muestra los cambios de este documento.
 
 ## Diferencias entre commits
 
